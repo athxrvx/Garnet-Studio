@@ -1,5 +1,3 @@
-# Garnet Studio
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/BANNE.png" alt="Banner" width="800"/>
 </div>
@@ -8,11 +6,13 @@
 
 **Garnet Studio** is a comprehensive, privacy-first AI workspace built around [Ollama](https://ollama.com/).
 
+What originally started as a simple desktop wrapper to interact with Ollama more comfortably has evolved into a full-featured local ecosystem. It combines powerful **local research capabilities** with a **secure device gateway**. The goal is straightforward: run models locally, keep your data strictly on your machine, and seamlessly access your setup from other devices on your local network without ever exposing it to the internet.
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-18%20124601.png" alt="Dashboard" width="800"/>
 </div>
-
-What originally started as a simple desktop wrapper to interact with Ollama more comfortably has evolved into a full-featured local ecosystem. It combines powerful **local research capabilities** with a **secure device gateway**. The goal is straightforward: run models locally, keep your data strictly on your machine, and seamlessly access your setup from other devices on your local network without ever exposing it to the internet.
 
 
 ---
