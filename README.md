@@ -1,6 +1,6 @@
 # Garnet Studio
 
-![Dashboard](Screenshot%202026-02-19%20105240.png)
+![Dashboard](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105240.png)
 
 **Garnet Studio** is a comprehensive, privacy-first AI workspace built around [Ollama](https://ollama.com/).
 
@@ -13,9 +13,9 @@ What originally started as a simple desktop wrapper to interact with Ollama more
 ### 🧠 AI Research Engine & Multi-Tool Chat
 Create distinct projects, upload documents, and chat with your local models seamlessly.
 
-![Select Workspace](Screenshot%202026-02-19%20105450.png)
-![Research Workspace](Screenshot%202026-02-19%20105851.png)
-![Garnet Studio Chat](Screenshot%202026-02-19%20105621.png)
+![Select Workspace](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105450.png)
+![Research Workspace](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105851.png)
+![Garnet Studio Chat](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105621.png)
 
 * **Workspace Management**: Isolate your research topics into dedicated workspaces.
 * **Multi-Modal Ingestion**: Drag-and-drop PDFs, text files, Markdown, code, or web links. 
