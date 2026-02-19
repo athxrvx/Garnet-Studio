@@ -28,8 +28,8 @@ Create distinct projects, upload documents, and chat with your local models seam
 ### ⚙️ Local Model Management
 Manage your entire local LLM inventory visually without touching the command line.
 
-![Model Management](Screenshot%202026-02-19%20105411.png)
-![Model Configuration](Screenshot%202026-02-19%20105426.png)
+![Model Management](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105411.png)
+![Model Configuration](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105426.png)
 
 * **Inventory Control**: View installed models, track their memory footprint, and activate them with a click.
 * **Granular Configuration**: Easily tweak Generation Parameters (Temperature, Top P), adjust context window sizes, and set custom System Prompts per model.
@@ -39,8 +39,8 @@ Manage your entire local LLM inventory visually without touching the command lin
 ### 🔒 Secure Device Gateway
 Use your powerful desktop GPU from your phone or tablet safely.
 
-![Device Manager](Screenshot%202026-02-19%20105257.png)
-![Pair New Device](Screenshot%202026-02-19%20105336.png)
+![Device Manager](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105257.png)
+![Pair New Device](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105336.png)
 
 * **End-to-End Encryption**: Devices pair securely using a custom RSA/AES handshake protocol.
 * **Zero-Config Discovery**: Automatically find Garnet Studio on your Wi-Fi using mDNS (`_garnet._tcp`).
@@ -52,8 +52,8 @@ Use your powerful desktop GPU from your phone or tablet safely.
 ### 📊 System Monitoring & Settings
 Keep an eye on your hardware and customize your app experience.
 
-![System Status](Screenshot%202026-02-19%20105224.png)
-![Settings](Screenshot%202026-02-19%20105645.png)
+![System Status](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105224.png)
+![Settings](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105645.png)
 
 * **Real-time Metrics**: Track CPU, RAM, and VRAM usage, alongside live network traffic and system logs.
 * **App Customization**: Deep dark mode UI, auto-start gateway preferences, and user profile management.
