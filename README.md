@@ -63,8 +63,8 @@ Use your powerful desktop GPU from your phone or tablet safely.
 Keep an eye on your hardware and customize your app experience.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105224.png" width="48%" />
-  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105645.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105224.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105645.png" width="66%" />
 </p>
 
 * **Real-time Metrics**: Track CPU, RAM, and VRAM usage, alongside live network traffic and system logs.
