@@ -1,6 +1,10 @@
 # Garnet Studio
 
-![Dashboard](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105240.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105240.png" alt="Dashboard" width="800"/>
+</div>
+
+<br>
 
 **Garnet Studio** is a comprehensive, privacy-first AI workspace built around [Ollama](https://ollama.com/).
 
@@ -13,9 +17,11 @@ What originally started as a simple desktop wrapper to interact with Ollama more
 ### 🧠 AI Research Engine & Multi-Tool Chat
 Create distinct projects, upload documents, and chat with your local models seamlessly.
 
-![Select Workspace](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105450.png)
-![Research Workspace](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105851.png)
-![Garnet Studio Chat](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105621.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105450.png" width="32%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105851.png" width="32%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105621.png" width="32%" />
+</p>
 
 * **Workspace Management**: Isolate your research topics into dedicated workspaces.
 * **Multi-Modal Ingestion**: Drag-and-drop PDFs, text files, Markdown, code, or web links. 
@@ -28,8 +34,10 @@ Create distinct projects, upload documents, and chat with your local models seam
 ### ⚙️ Local Model Management
 Manage your entire local LLM inventory visually without touching the command line.
 
-![Model Management](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105411.png)
-![Model Configuration](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105426.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105411.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105426.png" width="48%" />
+</p>
 
 * **Inventory Control**: View installed models, track their memory footprint, and activate them with a click.
 * **Granular Configuration**: Easily tweak Generation Parameters (Temperature, Top P), adjust context window sizes, and set custom System Prompts per model.
@@ -39,8 +47,10 @@ Manage your entire local LLM inventory visually without touching the command lin
 ### 🔒 Secure Device Gateway
 Use your powerful desktop GPU from your phone or tablet safely.
 
-![Device Manager](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105257.png)
-![Pair New Device](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105336.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105257.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105336.png" width="48%" />
+</p>
 
 * **End-to-End Encryption**: Devices pair securely using a custom RSA/AES handshake protocol.
 * **Zero-Config Discovery**: Automatically find Garnet Studio on your Wi-Fi using mDNS (`_garnet._tcp`).
@@ -52,8 +62,10 @@ Use your powerful desktop GPU from your phone or tablet safely.
 ### 📊 System Monitoring & Settings
 Keep an eye on your hardware and customize your app experience.
 
-![System Status](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105224.png)
-![Settings](https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105645.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105224.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/athxrvx/Garnet-Studio/refs/heads/main/assets/previews/Screenshot%202026-02-19%20105645.png" width="48%" />
+</p>
 
 * **Real-time Metrics**: Track CPU, RAM, and VRAM usage, alongside live network traffic and system logs.
 * **App Customization**: Deep dark mode UI, auto-start gateway preferences, and user profile management.
@@ -84,8 +96,8 @@ Keep an eye on your hardware and customize your app experience.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/garnet_studio.git](https://github.com/yourusername/garnet_studio.git)
-    cd garnet_studio
+    git clone [https://github.com/athxrvx/Garnet-Studio.git](https://github.com/athxrvx/Garnet-Studio.git)
+    cd Garnet-Studio
     ```
 
 2.  **Install dependencies:**
